@@ -13,7 +13,7 @@ Check out my site if you want to learn more about me!
 - Cooking 
 
 ### 🌱 I’m currently learning ...
-Machine Learning! I am pursuiing a M.S. in it from Georgia Tech and expect to graduate in 2022.
+Machine Learning! I am pursuing a M.S. in it from Georgia Tech and expect to graduate in 2022.
 
 ### 📫 How to reach me ...
 Please reach out to me through my LinkedIn for any job related opportunities or collabortations, thank you!
